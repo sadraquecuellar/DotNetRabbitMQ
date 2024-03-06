@@ -1,0 +1,12 @@
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.deps.json
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.AssemblyReference.cache
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfoInputs.cache
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfo.cs
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\refint\Rabbit.Models.dll
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Sadraque\source\repos\RabbitPublisher.API\Rabbit.Models\obj\Debug\net6.0\ref\Rabbit.Models.dll

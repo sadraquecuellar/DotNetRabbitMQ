@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\RabbitConsumer\\RabbitConsumer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj",
+        "projectName": "Rabbit.Repositories",
+        "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Sadraque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sadraque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj",
+        "projectName": "Rabbit.Models",
+        "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj",
+        "packagesPath": "C:\\Users\\Sadraque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sadraque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\Rabbit.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\Rabbit.Services.csproj",
+        "projectName": "Rabbit.Services",
+        "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\Rabbit.Services.csproj",
+        "packagesPath": "C:\\Users\\Sadraque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sadraque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj"
+              },
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\RabbitConsumer\\RabbitConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\RabbitConsumer\\RabbitConsumer.csproj",
+        "projectName": "RabbitConsumer",
+        "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\RabbitConsumer\\RabbitConsumer.csproj",
+        "packagesPath": "C:\\Users\\Sadraque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\RabbitConsumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sadraque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbir.Repositories\\Rabbit.Repositories.csproj"
+              },
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Models\\Rabbit.Models.csproj"
+              },
+              "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\Rabbit.Services.csproj": {
+                "projectPath": "C:\\Users\\Sadraque\\source\\repos\\RabbitPublisher.API\\Rabbit.Services\\Rabbit.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

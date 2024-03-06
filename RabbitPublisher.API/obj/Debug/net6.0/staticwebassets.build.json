@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "74d8R3OqdpOrV9LqPQUIAJts+PrVylxk7Cl5aVhwQCA=",
+  "Source": "RabbitPublisher.API",
+  "BasePath": "_content/RabbitPublisher.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
